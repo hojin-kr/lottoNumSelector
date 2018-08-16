@@ -7,4 +7,4 @@ Server is shutdown so not working number recommended.
 Not commercial now.
 
 
-https://www.youtube.com/watch?v=_jGL7zBuSn0
+https://youtu.be/_jGL7zBuSn0
