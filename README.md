@@ -1,4 +1,4 @@
-# lottoNumSeclector
+# lottoNumSelector
 
 ## Front 
 - HTML 
