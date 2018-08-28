@@ -1,5 +1,5 @@
 # lottoNumSelector
-We recommend random numbers based on selection numbers.
+This recommends a random number based on the selection number.
 
 ## A team project in Dankook.Univ
 Server is shutdown so not working number recommended.
