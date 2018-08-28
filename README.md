@@ -14,6 +14,8 @@ Not commercial now.
 - R 
 - PHP 
 - MySQL
+### Server
+- AWS EC2 Ubuntu
 
 ## Members
 Jang Ho Jin(장호진), Lee Dong Min(이동민), Seo Hee Won(서희원), Yoo Ji Eun(유지은)
